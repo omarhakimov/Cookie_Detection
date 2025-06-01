@@ -106,11 +106,3 @@ cookie-detection/
 ├── onepic.py            # Single image classification script
 └── README.md            # Project documentation
 ```
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for bug fixes, new features, or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
